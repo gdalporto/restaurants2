@@ -37,7 +37,7 @@ app.get('/restaurants', (req, res) => {
     });
 });
 //comment
-
+//Comment 2
 // can also request by ID
 app.get('/restaurants/:id', (req, res) => {
   Restaurant
